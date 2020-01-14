@@ -9,4 +9,4 @@ Personal Mapbox access token required ---> used in index.js
 
 ///
 
-Made as a part of a JavaScript course at Tampere University of Applied Sciences.
+Made as a part of a JavaScript(+React) course at Tampere University of Applied Sciences.
